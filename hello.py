@@ -8,3 +8,4 @@ if len(num) == 1:
 print("*************************************")
 print(f"Hello world! Your lucky number is {num}.")
 print("*************************************")
+input("please enter: ")
