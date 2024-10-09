@@ -6,7 +6,7 @@ RUN apt install -y git
 
 RUN git clone https://github.com/hunterevans0/docker_this
 
-WORKDIR /round-keys-5c5
+WORKDIR /docker_this
 
 RUN /bin/bash
 
